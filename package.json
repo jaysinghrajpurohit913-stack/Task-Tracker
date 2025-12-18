@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.0.2",
+    "validator": "^13.15.26"
+  },
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "This is my first git repository and in this i am creating task tracker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysinghrajpurohit913-stack/Task-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaysinghrajpurohit913-stack/Task-Tracker/issues"
+  },
+  "homepage": "https://github.com/jaysinghrajpurohit913-stack/Task-Tracker#readme"
+}
